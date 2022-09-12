@@ -1,7 +1,7 @@
 /* eslint-disable prettier/prettier */
 import React from "react";
 import styled from "styled-components/native";
-import { Text, StyleSheet } from "react-native";
+import { StyleSheet } from "react-native";
 import { Card } from "react-native-paper";
 
 const Title = styled.Text`
